@@ -1,7 +1,6 @@
 Implemented in Aug-Sep 2021 by Netta Shafir as part of summer project in Prof. Yifat Prut in Edmond and Lily Safra 
 center of Brian Science in the Hebrew University of Jerusalem. This program is a partially implementation of the 
-algorithms proposed in
-this paper:
+algorithms proposed in this paper:
 
 Mokri Y, Salazar RF, Goodell B, Baker J, Gray CM and Yen S-C (2017) Sorting Overlapping Spike Waveforms from 
 Electrode and Tetrode Recordings. Front. Neuroinform. 11:53. doi: 10.3389/fninf.2017.00053
