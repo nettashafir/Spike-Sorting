@@ -5,7 +5,9 @@ algorithms proposed in this paper:
 Mokri Y, Salazar RF, Goodell B, Baker J, Gray CM and Yen S-C (2017) Sorting Overlapping Spike Waveforms from 
 Electrode and Tetrode Recordings. Front. Neuroinform. 11:53. doi: 10.3389/fninf.2017.00053
 
-Please send questions and notes to: netta.shafir@mail.huji.ac.il.
+Please send questions and notes to: nettashaf@gmail.com
+For more general information on the program and for the results of the project, please read the Project Summary that
+is included in this repository.
 
 
 ======================================
